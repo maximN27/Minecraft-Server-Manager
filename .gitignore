@@ -12,3 +12,5 @@ serverbin
 
 # Ignore the resources folder
 resources
+# Ignore the tokens folder
+**tokens

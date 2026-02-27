@@ -3,8 +3,8 @@ package org.ServerManager;
 import java.io.*;
 
 public class ServerManager {
-    private final String serverDirectory = "serverbin\\bedrock-server-1.21.132.3\\";
-    private final String serverPath = "serverbin\\bedrock-server-1.21.132.3\\bedrock_server.exe";
+    private final String serverDirectory = "serverbin\\bedrock-server\\";
+    private final String serverPath = "serverbin\\bedrock-server\\bedrock_server.exe";
 
     private Process bedrockServer;
     private BufferedWriter serverWriter;
